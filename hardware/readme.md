@@ -21,6 +21,7 @@ What was the environment like at the time the photo was taken
 ### GPS
 
 Where was the photo taken
+Something like https://www.ebay.co.uk/itm/335700665110
 
 ### CO2
 
