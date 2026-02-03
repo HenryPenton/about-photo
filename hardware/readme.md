@@ -16,15 +16,23 @@
 
 ## Sensors
 
+What was the environment like at the time the photo was taken
+
 ### GPS
 
-### Co2
+Where was the photo taken
+
+### CO2
+
+What was the CO2 percentage in the air.
 
 ### Temp and humidity sensor
 
 ### Rain sensor
 
-### barometer
+### Barometer
+
+What was the pressure.
 
 ## Casing
 
