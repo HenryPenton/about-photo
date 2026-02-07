@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+software/photos/*.dng
+software/photos/*.jpg
+software/photos/*.jpeg
+software/photos/*.png
+software/photos/*.raw
+software/photos/*.cr2
+software/photos/*.nef
+software/photos/*.arw
+software/photos
+sensor_data.json
+
+# Secrets
+secrets.h
